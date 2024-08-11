@@ -5,8 +5,14 @@ import 'features/feature/presentation/cubit/feature_cubit.dart';
 
 void main() {
   runApp(const MyApp());
-  print('dd');
-  print('dd');
+
+  print('1-2');
+    print('1-2');
+      print('1-2');
+
+        print('1-2');
+          print('1-2');
+          
 }
 
 class MyApp extends StatelessWidget {
