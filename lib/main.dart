@@ -10,7 +10,8 @@ void main() {
     print('ghareeb');
         print('fares');
     print('mohammed');
-
+ print('fares');
+    print('mohammed');
 
         print('ghareeb');
           print('ghareeb');
