@@ -6,12 +6,13 @@ import 'features/feature/presentation/cubit/feature_cubit.dart';
 void main() {
   runApp(const MyApp());
 
-  print('1-2');
-    print('1-2');
-      print('1-2');
+  print('ghareeb');
+    print('ghareeb');
+    
 
-        print('1-2');
-          print('1-2');
+        print('ghareeb');
+          print('ghareeb');
+            print('ghareeb');
           
 }
 
