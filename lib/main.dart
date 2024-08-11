@@ -72,6 +72,7 @@ class MyHomePage extends StatelessWidget {
                           IconButton(
                               onPressed: () {
                           //   BlocProvider.of<FeatureCubit>(context).add();
+
                                cubit.add();
                               },
                               icon: const Icon(Icons.add)),
@@ -89,3 +90,8 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+//m1
+//m2
+
+
+
